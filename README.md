@@ -1,0 +1,3 @@
+A COMPOSER PACKAGE WHICH SERVES THE FUNCTIONALITY WORKING WITH WORDPRESS NONCES
+
+The composer package serves the functionality working with WordPress Nonces which have wp_nonce_fx() function implemented in oop. The package does not replace the current functionality, but rather implements the WordPress Nonces in OOP. A UnitTests  is also included. Read the steps bellow to follow how the project was done.
